@@ -1,5 +1,5 @@
 # 👋 Hello
-My name is @MunaEneh. Welcome to my profile.
+My name is @MunaUchegbu. Welcome to my profile.
 
 ## 🚀 About Me
 <p>My name is Muna Erica Eneh. I am a graduate of English and Literary Studies. Lately, I have developed interest in programming. I started learning how to code on my own since July this year.I have basic knowledge in HTML and CSS but thanks to my amazing mentors, interacting with peers and the vigorous tasks. I have gained a certain level of confidernce in myself.</p>
